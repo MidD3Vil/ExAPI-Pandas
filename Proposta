@@ -1,0 +1,24 @@
+# PROPOSTA:
+
+# Você é um gerente de uma empresa onde trabalham 1000 empregados... Foi proposto que o primeiro
+# funcionário que atingi-se o valor de 55mil em vendas no período de 5 meses, ganharia uma viagem
+# internacional para toda a sua família!
+
+
+# OBJETIVO:
+
+# Sabendo disto e tendo disponível 6 bancos de dados com o nome de cada funcionário, um para cada mês,
+# você deve pesquisar em cada um deles se alguem atingiu a meta de vendas nos 6 meses... No final,
+# deverá enviar um SMS para o dono da empresa com o "nome", "mês" e "valor de vendas" da pessoa
+# vencedora
+
+
+# MATERIAL:
+
+# Banco de dados: https://drive.google.com/drive/folders/1RUhhw9Tpt3qyQnWIvFiuC8S3G71tcE8R
+# Link do Twilio (API Sms): https://www.twilio.com/docs/libraries/python
+
+
+# PIP INSTALL:
+# twilio            --> Integração do python com o SMS
+# pandas / openpyxl --> Integração do python com o Excel
