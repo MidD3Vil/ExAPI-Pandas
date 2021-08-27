@@ -1,0 +1,14 @@
+# PASSO A PASSO PROPOSTO PARA A SOLUÇÃO:
+
+# 1) Abrir os 6 arquivos em Excel
+
+# 2) Para cada arquivo x6:
+# * Verificar se algum valor na coluna de vendes daquele arquivo atingiu 55 mil
+
+# 3^1) Se tiver algum valor maior que 55 mil:
+# * Enviar um SMS com o "Nome", "Mês" e o "Valor de Vendas" para o número
+
+# 3^2) Se NÃO tiver algum valor maior que 55 mil:
+# * Não faz nada...
+
+# 4) Enviar via SMS as informações obtidas
