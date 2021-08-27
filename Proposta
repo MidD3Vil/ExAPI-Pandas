@@ -17,6 +17,7 @@
 
 # Banco de dados: https://drive.google.com/drive/folders/1RUhhw9Tpt3qyQnWIvFiuC8S3G71tcE8R
 # Link do Twilio (API Sms): https://www.twilio.com/docs/libraries/python
+# Aula original com passo a passo: https://www.youtube.com/watch?v=GQpQha2Mfpg&t=186s
 
 
 # PIP INSTALL:
