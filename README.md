@@ -23,7 +23,7 @@ Bom, é isso. Espero que gostem...
 💻 Termux
 $ pkg upgrade -y && pkg update -y
 $ pkg install git python figlet -y
-$ git clone https://github.com/drmidnightytb/ExAPI-Pandas
+$ git clone https://github.com/MidD3Vil/ExAPI-Pandas
 $ cd ExAPI-Pandas
 $ python3 main.py
 ```
